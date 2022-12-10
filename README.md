@@ -1,65 +1,19 @@
-# Astro Starter Kit: Blog
+# Welcome to My Personal Website and Blog
 
-```
-npm create astro@latest -- --template blog
-```
+This is the GitHub repository that contains the code for my personal website and blog, which is built using [Astro](https://astro.build/), a modern and powerful JavaScript framework for building user interfaces.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/blog)
+Before you can run the scripts mentioned below, you will need to install the necessary dependencies by running `npm install` in the root directory of the repository. This will install the Astro.js framework and any other required packages listed in the `package.json` file.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+To run the website locally, you can use the `dev` or `start` scripts, which will start a development server on your local machine.
 
+To build a production-ready version of the website, you can use the `build` script, which will generate a optimized version of the website in the `build` directory.
 
-![blog](https://user-images.githubusercontent.com/4677417/186189140-4ef17aac-c3c9-4918-a8c2-ce86ba1bb394.png)
+To preview the built website, you can use the `preview` script, which will start a local development server with the built version of the website.
 
-Features:
+In addition to these scripts, there is also the `astro` script, which allows you to use the Astro.js command-line interface to perform various tasks.
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+On my blog, you'll find posts on a variety of topics, ranging from personal experiences and thoughts, to tutorials and discussions on the latest technologies.
 
-## 🚀 Project Structure
+Thank you for visiting my website. I hope you enjoy reading my posts!
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-├── public/
-├── src/
-│   ├── components/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+- Sam
