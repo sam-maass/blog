@@ -17,6 +17,6 @@ COPY . .
 RUN npm run build
 
 EXPOSE 3000
-
+LABEL com.example.image-name="blog"
 # Run the app
 CMD [ "npm", "run", "serve" ]
