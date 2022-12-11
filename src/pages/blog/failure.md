@@ -1,16 +1,35 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "About Failure"
+description: "Failure is a valuable learning tool. Embrace it to grow and succeed."
+pubDate: "Dec 11 2022"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Failure is often perceived as something negative, but it can actually be a valuable opportunity to learn and grow. When we fail at something, we have the chance to reflect on what went wrong and to come up with a plan to improve in the future. This can be especially beneficial in situations where we are trying something new or pushing ourselves out of our comfort zone. By embracing failure, we can break free from our fear of it and use it as a tool to improve and succeed.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+In many ways, society has a distorted view of failure. From a young age, we are taught that failure is something to be avoided at all costs. We are encouraged to strive for perfection and to never give up, even in the face of overwhelming odds. This pressure to succeed can be damaging, as it can lead to a fear of failure that can hold us back and prevent us from taking risks and trying new things.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Furthermore, failure is often seen as a personal failing, rather than a natural part of the learning and growth process. We are taught to view failure as a reflection of our own worth and abilities, rather than as an opportunity to learn and improve. This can lead to feelings of shame and inadequacy, and can even discourage us from trying again in the future.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+One of the key things we need to realize about failure is that it is actually a valuable and necessary part of life. Far from being something to be avoided, failure is essential to progress and success. This is because failure is a natural part of the learning and growth process. When we fail at something, we have the opportunity to reflect on what went wrong and to come up with a plan to improve in the future. This allows us to learn from our mistakes and to make progress towards our goals.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+One way to think about failure is as a tree of possibilities. When we start working towards a goal, we have a whole tree of possibilities in front of us. Each branch represents a different approach or solution to the problem. As we work towards our goal, we try different branches and see which ones work and which ones don't.
+
+When we fail, it can feel like we have lost something. However, it is important to remember that by failing, we are actually eliminating a branch from the tree of possibilities. This means that we are one step closer to finding a solution that works.
+
+In this way, it is actually better to fail early and often. By failing early, we can eliminate entire branches of the tree and narrow down the possibilities more quickly. This increases the chances that the next approach we try will be the right one, and it can help us achieve our goals more quickly.
+
+One of the key ways that we can embrace failure and use it to our advantage is by increasing our cadence of failure. This means striving to fail more often and more quickly.
+
+This may sound counterintuitive, but it actually makes a lot of sense. As we have discussed, failure is a valuable tool for learning and growing. It allows us to reflect on what went wrong and to come up with a plan to improve in the future. By failing more often and more quickly, we can learn more quickly and make more progress towards our goals.
+
+There are several ways to increase our cadence of failure. One is to take more risks and try new things, even if there is a chance of failure. This means pushing ourselves out of our comfort zones and trying things that we might not normally try. By doing this, we can open ourselves up to new experiences and opportunities, and increase our chances of failing and learning.
+
+Another way to increase our cadence of failure is to be more open to feedback and criticism. When we receive feedback or criticism, it can be tempting to become defensive or to dismiss it. However, this is a missed opportunity to learn and improve. By being more open to feedback and criticism, we can learn more quickly and increase our chances of failing and learning.
+
+**TL;DR**
+- Failure is a valuable opportunity to learn and grow.
+- Society has a falsely negative perspective on failure.
+- Failure is essential to progress and success.
+- By embracing failure, we can break free from our fear of it and use it to improve.
+- Increasing our willingness to fail can improve our chances of success and achieve our goals.
