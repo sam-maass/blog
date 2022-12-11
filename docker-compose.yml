@@ -8,7 +8,6 @@ services:
     ports:
       - "80:80"
       - "443:443"
-      # The Web UI (enabled by --api.insecure=true)
       - "8080:8080"
     volumes:
       # So that Traefik can listen to the Docker events
@@ -18,7 +17,7 @@ services:
     build: .
     labels:
       - traefik.http.routers.local.rule=Host(`blog.localhost`)
-      - traefik.http.routers.blog.rule=Host(`maass.co`)
+      - traefik.http.routers.blog.rule=Host(`www.maass.co`)
       - traefik.http.routers.ip.rule=Host(`195.201.100.49`)
       - traefik.http.routers.blog.tls=true
       - traefik.http.routers.blog.tls.certresolver=myresolver
