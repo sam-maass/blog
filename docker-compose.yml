@@ -17,7 +17,7 @@ services:
     build: .
     labels:
       - traefik.http.routers.local.rule=Host(`blog.localhost`)
-      - traefik.http.routers.blog.rule=Host(`www.maass.co`)
+      - traefik.http.routers.blog.rule=Host(`www.maass.co`)||Host('maass.co')
       - traefik.http.routers.ip.rule=Host(`195.201.100.49`)
       - traefik.http.routers.blog.tls=true
       - traefik.http.routers.blog.tls.certresolver=myresolver
